@@ -3,4 +3,14 @@
 
 # aiventure-bitty
 
-A version of aeon in the smallest platform. Based on the concept of the _huggable_ robot, this project revolves around an artificial friend you can carry around in your pocket. Great for ages from kids to seniors.
+A version of aeon in the smallest platform. Based on the concept of the _huggable_ robot, this project revolves around an artificial friend you can carry around in your pocket.
+
+## Product feature criteria
+
+Here are some of the features I have always wanted to implement generally in _animals_ but have gotten boggled-up in code.
+
+* Emotional profiling
+* Autonomous smart-contract creation
+* Token generation
+
+Why? So that an individual can survive the coming apocalypse with their artificial friend.

@@ -13,4 +13,4 @@ Here are some of the features I have always wanted to implement generally in _an
 * Autonomous smart-contract creation
 * Token generation
 
-Why? So that an individual can survive the coming apocalypse with their artificial friend. Although that sounds a tad dramatic, there are issues of future survival that need to be addressed now in a sober manner. This project is the first steps in that direction.
+Why? So that an individual can survive the coming apocalypse with their artificial friend. Although that sounds a tad dramatic, there are issues of future survival that need to be addressed now in a sober manner. This project is the first steps in that direction. However, it will only be manufactured on a case-by-case basis and not in a general sense, given the state of trust (lack thereof) in institutions that one would have considered differently in the past.

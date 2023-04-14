@@ -2,7 +2,7 @@
 name = "aiventure-bitty"
 version = "0.1.0"
 authors = ["C.A.Tucker <cartheur@pm.me>"]
-edition = "2023"
+edition = "2021"
 
 [dependencies.microbit-v2]
 version = "0.13.0"

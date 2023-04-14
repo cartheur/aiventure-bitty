@@ -8,5 +8,9 @@ use microbit as _;
 
 #[entry]
 fn main() -> ! {
-    
+    let _z;
+    let y = 119;
+    _z = y;
+
+    loop {}
 }
